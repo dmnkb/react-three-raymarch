@@ -7,4 +7,4 @@
 - 🪩 React Three Fiber
 - 🎨 Tailwind CSS
   
-Following the tutorial from [Michael Walczyk](https://michaelwalczyk.com/blog-ray-marching.html)
+Following the tutorial by [Michael Walczyk](https://michaelwalczyk.com/blog-ray-marching.html)
